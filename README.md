@@ -1,1 +1,1 @@
-My first readme
+This repo is Zero day at ALX
